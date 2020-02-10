@@ -85,9 +85,15 @@ began with a T1-weighted structural volume using an MPRAGE sequence
 [repetition time (TR) = 2.4 s, echo time (TE) = 2.2 ms, flip angle = 8°,
 300 × 320 matrix, voxel size = 0.8 mm isotropic]. Blood oxygenation
 level-dependent (BOLD) functional MRI images were acquired using a
-multiband echo planar imaging sequence (Feinberg et al., 2010) [TR = 3
-s, TA = 1 s, TE = 37 ms, flip angle = 37°, 936 × 936 matrix, voxel size
-= 2 mm isotropic]. We used a sparse imaging design in which there was a
-delay in between scanning acquisitions, where the TR was longer than the
-acquisition time to allow for minimal scanning noise during stimulus
-presentation and audio recording of participant responses. 
+multiband echo planar imaging sequence (Feinberg et al., 2010) [TR =
+3.07 s, TA = 0.770 s, TE = 37 ms, flip angle = 37°, voxel size = 2 mm
+isotropic, multiband factor = 8]. We used a sparse imaging design in
+which there was an 2.3 second delay in between scanning acquisitions,
+where the TR was longer than the acquisition time to allow for minimal
+scanning noise during stimulus presentation and audio recording of
+participant responses (Edmister et al., 1999; Hall et al., 1999). 
+
+
+## NeuroVault
+
+Result images can be found at: <https://www.neurovault.org/collections/6279/>
